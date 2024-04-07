@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Selection sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shaker sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shell sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Counting sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Radix sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bucket sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quick sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Linear search.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary search.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exponential search.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interpolation search.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Push.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Top.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enqueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dequeue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Peek.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Insert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Delete.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Peek (Maximum).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IncreaseKey.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertDouble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteDouble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchDouble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertBinarySearch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteBinary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchBinary.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inorder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Preorder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Postorder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelOrder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Huffmanalgorithmforatextbinaryencodingdecoding.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prim%27s algorithm for minimum spanning trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kruskal%27s algorithm for minimum spanning trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph connected components (Disjoint Sets) Use rooted trees as a set implementation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra%27s algorithm to find the single source shortest paths of the graph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
